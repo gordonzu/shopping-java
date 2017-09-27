@@ -1,2 +1,13 @@
 build/* linguist-vendored
 target/* linguist-vendored
+g8/* linguist-vendored
+target/* linguist-vendored
+.gradle/* linguist-vendored
+.idea/* linguist-vendored
+build.gradle linguist-vendored
+build.sbt linguist-vendored
+sbt linguist-vendored
+gradlew linguist-vendored
+shopping.iml linguist-vendored
+
+
